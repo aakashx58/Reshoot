@@ -2,6 +2,8 @@
 
 Reshoot turns one skincare product photo into campaign-grade beauty shoots, styled product scenes, and motion.
 
+<img width="1900" height="891" alt="image" src="https://github.com/user-attachments/assets/c176b295-5995-48c2-8cb9-76fd29fc080d" />
+
 ## Overview
 
 This repository contains a Vite + React + TypeScript web app for the **Reshoot** experience. The current UI is primarily implemented in [`index.html`](index.html) (including GSAP/ScrollTrigger/SplitType animations loaded via CDN), with a minimal React entry in [`src/main.tsx`](src/main.tsx) and [`src/App.tsx`](src/App.tsx).
