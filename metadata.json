@@ -1,0 +1,6 @@
+{
+  "name": "Reshoot",
+  "description": "Reshoot turns one skincare product photo into campaign-grade beauty shoots, styled product scenes and motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
